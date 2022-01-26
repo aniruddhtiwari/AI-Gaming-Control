@@ -1,0 +1,21 @@
+This Project is created by Aniruddh Tiwari (aniruddhtiwari83@gmail.com).
+
+Scope: Project intends to to estimate pose using AI and converting it into inputs for gaming control to give more immersive experience to the user.
+
+Current State: 4 poses are captures - jump and land with legs spread, tilt left wth left arm stretched on left side, tilt right wth rigth arm stretched on right side,and duck.
+These poses are mapped with up, left, right and down arrows of the keyboard and can be used to control any software (intended for games).
+
+Currently, attached video shows the author playing Temple Run from a random website on google. Another version of prject code is created to play car racing category games.
+
+Future State: 
+1) Work on known issues of ducking.
+2) Work on increasing estimation speed to help play games on projectors.
+3) Enhance to gain mouse control to expand game categories to boxing, penalty shoot out, golfing etc. 
+4) Enhance pose estimation capabilities for capturing speed of action. This will be integrated and tied to video playing speed giving user an immersive experience of 
+   running on tracks around the world or cycling on different track or boating on different water conditions. Can be linked to VR for 3-d experience.
+   
+***********************************************************
+   
+SEE ATTACHED VIDEO
+
+***********************************************************
